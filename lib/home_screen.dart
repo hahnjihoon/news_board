@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.blueAccent,
-          title: const Text('TSB test'),
+          title: const Text('TSB test2'),
           centerTitle: true,
         ),
         body: WebView(
